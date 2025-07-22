@@ -1,0 +1,13 @@
+# Requisitos do projeto
+# Para executar: pip install -r requirements.txt
+
+# Não há dependências externas obrigatórias
+# O projeto usa apenas a biblioteca padrão do Python
+
+# Dependências opcionais para visualização:
+# graphviz  # Para renderizar diagramas dos autômatos (requer instalação do Graphviz)
+
+# Para instalar o Graphviz:
+# Ubuntu/Debian: sudo apt-get install graphviz
+# macOS: brew install graphviz  
+# Windows: https://graphviz.org/download/
